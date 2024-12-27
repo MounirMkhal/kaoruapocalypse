@@ -184,13 +184,15 @@ export default function Hero() {
                   ))}
                 </ul>
 
-                <button className="group relative px-8 py-3 bg-transparent overflow-hidden">
-                  <div className="absolute inset-0 bg-gradient-to-r from-[#424769] to-[#2d3250] opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                  <div className="absolute inset-0 border-2 border-[#424769] transform group-hover:scale-105 transition-transform duration-300"></div>
-                  <span className="relative text-xl font-medium text-[#a1a5c4] group-hover:text-white transition-colors duration-300">
-                    Chat with Sarah
-                  </span>
-                </button>
+                <a href="https://vvaifu.fun" target="_blank" rel="noopener noreferrer">
+                  <button className="group relative px-8 py-3 bg-transparent overflow-hidden">
+                    <div className="absolute inset-0 bg-gradient-to-r from-[#424769] to-[#2d3250] opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div className="absolute inset-0 border-2 border-[#424769] transform group-hover:scale-105 transition-transform duration-300"></div>
+                    <span className="relative text-xl font-medium text-[#a1a5c4] group-hover:text-white transition-colors duration-300">
+                      Chat with Kaoru
+                    </span>
+                  </button>
+                </a>
               </div>
             </div>
           </div>
