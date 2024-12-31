@@ -77,7 +77,7 @@ export default function Hero() {
               Roadmap
             </button>
             <a
-              href="https://x.com/kaoruapocalypse"
+              href="https://x.com/itskaoruAI"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-2 rounded-full border border-[#a0a8e6] text-[#a0a8e6] hover:bg-[#a0a8e6]/10 transition-colors tracking-wider flex items-center gap-2"
