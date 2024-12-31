@@ -107,9 +107,9 @@ export default function Hero() {
             fear, and uncovering the truth behind a shattered world.
           </p>
           <div className="flex gap-4 mt-2">
-            <button className="px-6 py-2 rounded-full bg-gradient-to-r from-[#8593e8] to-[#b8c0ff] text-gray-900 hover:opacity-90 transition-opacity">
-            Meet Kaoru
-            </button>
+            <a href="https://vvaifu.fun/character/677330741b743316f149ccfa" className="px-6 py-2 rounded-full bg-gradient-to-r from-[#8593e8] to-[#b8c0ff] text-gray-900 hover:opacity-90 transition-opacity">
+              Meet Kaoru
+            </a>
           </div>
         </div>
 
@@ -184,7 +184,7 @@ export default function Hero() {
                   ))}
                 </ul>
 
-                <a href="https://vvaifu.fun" target="_blank" rel="noopener noreferrer">
+                <a href="https://vvaifu.fun/character/677330741b743316f149ccfa/chat" target="_blank" rel="noopener noreferrer">
                   <button className="group relative px-8 py-3 bg-transparent overflow-hidden">
                     <div className="absolute inset-0 bg-gradient-to-r from-[#424769] to-[#2d3250] opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                     <div className="absolute inset-0 border-2 border-[#424769] transform group-hover:scale-105 transition-transform duration-300"></div>
